@@ -1,4 +1,5 @@
-pagerank-omp
+PageRank OpenMP
 ============
 
-PageRank in C++ using OpenMP
+PageRank implementation in C++ using OpenMP API.
+
